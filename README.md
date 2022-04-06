@@ -12,4 +12,8 @@ Genre:  Eerie/Dark/Spooky
 4. Copy the folder called `game` from the official game to `ux0:/app/RNBL00001/`
 5. Enjoy!
 
+## Known Bugs
+The first choice in the game is "hide" or "go away", go away is the command to close the game so if you chose it the game will crash
+
+
 Created using the amazing [Ren'Py PSVita Distribution Tool](https://github.com/SonicMastr/renpy-vita/releases/tag/v1.0)
